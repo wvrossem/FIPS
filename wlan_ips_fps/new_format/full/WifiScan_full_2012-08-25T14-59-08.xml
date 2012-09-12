@@ -1,0 +1,211 @@
+<WLANFingerprint>
+   <position class="ips.data.entities.wlan.GridPosition" id="0">
+      <map class="ips.data.entities.wlan.GridMap">
+         <mapFileName></mapFileName>
+         <mapId>full</mapId>
+         <gridSize>70</gridSize>
+      </map>
+      <y>450</y>
+      <x>390</x>
+      <bottomY>480</bottomY>
+      <leftX>360</leftX>
+      <rightX>420</rightX>
+      <topY>420</topY>
+   </position>
+   <wlanMeasurement>
+      <apMeasurements class="java.util.HashMap">
+         <wlanMeasurement>
+            <accessPoint id="00:11:92:e9:dd:00">
+               <signalProperties class="java.util.ArrayList">
+                  <signalProperty>RSSI</signalProperty>
+               </signalProperties>
+               <BSSID>00:11:92:e9:dd:00</BSSID>
+               <SSID>TELENETHOTSPOT</SSID>
+               <capabilities>[ESS]</capabilities>
+               <frequency>2412</frequency>
+            </accessPoint>
+            <powerLevels>
+               <signalMeasurements class="java.util.HashMap">
+                  <signalMeasurement>
+                     <singalProperty>RSSI</singalProperty>
+                     <measurements>
+                        <values class="java.util.ArrayList">
+                           <double>-85.0</double>
+                        </values>
+                     </measurements>
+                  </signalMeasurement>
+               </signalMeasurements>
+               <average>-85.0</average>
+            </powerLevels>
+         </wlanMeasurement>
+         <wlanMeasurement>
+            <accessPoint id="00:26:4d:4f:e3:2a">
+               <signalProperties class="java.util.ArrayList">
+                  <signalProperty>RSSI</signalProperty>
+               </signalProperties>
+               <BSSID>00:26:4d:4f:e3:2a</BSSID>
+               <SSID>WiFi_2A</SSID>
+               <capabilities>[WEP][ESS]</capabilities>
+               <frequency>2422</frequency>
+            </accessPoint>
+            <powerLevels>
+               <signalMeasurements class="java.util.HashMap">
+                  <signalMeasurement>
+                     <singalProperty>RSSI</singalProperty>
+                     <measurements>
+                        <values class="java.util.ArrayList">
+                           <double>-85.0</double>
+                        </values>
+                     </measurements>
+                  </signalMeasurement>
+               </signalMeasurements>
+               <average>-85.0</average>
+            </powerLevels>
+         </wlanMeasurement>
+         <wlanMeasurement>
+            <accessPoint id="00:3a:9a:3a:4a:60">
+               <signalProperties class="java.util.ArrayList">
+                  <signalProperty>RSSI</signalProperty>
+               </signalProperties>
+               <BSSID>00:3a:9a:3a:4a:60</BSSID>
+               <SSID>TELENETHOTSPOT</SSID>
+               <capabilities>[ESS]</capabilities>
+               <frequency>5680</frequency>
+            </accessPoint>
+            <powerLevels>
+               <signalMeasurements class="java.util.HashMap">
+                  <signalMeasurement>
+                     <singalProperty>RSSI</singalProperty>
+                     <measurements>
+                        <values class="java.util.ArrayList">
+                           <double>-89.0</double>
+                        </values>
+                     </measurements>
+                  </signalMeasurement>
+               </signalMeasurements>
+               <average>-89.0</average>
+            </powerLevels>
+         </wlanMeasurement>
+         <wlanMeasurement>
+            <accessPoint id="00:11:92:e9:fa:b0">
+               <signalProperties class="java.util.ArrayList">
+                  <signalProperty>RSSI</signalProperty>
+               </signalProperties>
+               <BSSID>00:11:92:e9:fa:b0</BSSID>
+               <SSID>TELENETHOTSPOT</SSID>
+               <capabilities>[ESS]</capabilities>
+               <frequency>2462</frequency>
+            </accessPoint>
+            <powerLevels>
+               <signalMeasurements class="java.util.HashMap">
+                  <signalMeasurement>
+                     <singalProperty>RSSI</singalProperty>
+                     <measurements>
+                        <values class="java.util.ArrayList">
+                           <double>-55.0</double>
+                        </values>
+                     </measurements>
+                  </signalMeasurement>
+               </signalMeasurements>
+               <average>-55.0</average>
+            </powerLevels>
+         </wlanMeasurement>
+         <wlanMeasurement>
+            <accessPoint id="00:1d:45:d3:1c:e0">
+               <signalProperties class="java.util.ArrayList">
+                  <signalProperty>RSSI</signalProperty>
+               </signalProperties>
+               <BSSID>00:1d:45:d3:1c:e0</BSSID>
+               <SSID>TELENETHOTSPOT</SSID>
+               <capabilities>[ESS]</capabilities>
+               <frequency>2412</frequency>
+            </accessPoint>
+            <powerLevels>
+               <signalMeasurements class="java.util.HashMap">
+                  <signalMeasurement>
+                     <singalProperty>RSSI</singalProperty>
+                     <measurements>
+                        <values class="java.util.ArrayList">
+                           <double>-80.0</double>
+                        </values>
+                     </measurements>
+                  </signalMeasurement>
+               </signalMeasurements>
+               <average>-80.0</average>
+            </powerLevels>
+         </wlanMeasurement>
+         <wlanMeasurement>
+            <accessPoint id="00:3a:9a:3e:99:d0">
+               <signalProperties class="java.util.ArrayList">
+                  <signalProperty>RSSI</signalProperty>
+               </signalProperties>
+               <BSSID>00:3a:9a:3e:99:d0</BSSID>
+               <SSID>TELENETHOTSPOT</SSID>
+               <capabilities>[ESS]</capabilities>
+               <frequency>2412</frequency>
+            </accessPoint>
+            <powerLevels>
+               <signalMeasurements class="java.util.HashMap">
+                  <signalMeasurement>
+                     <singalProperty>RSSI</singalProperty>
+                     <measurements>
+                        <values class="java.util.ArrayList">
+                           <double>-82.0</double>
+                        </values>
+                     </measurements>
+                  </signalMeasurement>
+               </signalMeasurements>
+               <average>-82.0</average>
+            </powerLevels>
+         </wlanMeasurement>
+         <wlanMeasurement>
+            <accessPoint id="00:11:92:e9:cb:90">
+               <signalProperties class="java.util.ArrayList">
+                  <signalProperty>RSSI</signalProperty>
+               </signalProperties>
+               <BSSID>00:11:92:e9:cb:90</BSSID>
+               <SSID>TELENETHOTSPOT</SSID>
+               <capabilities>[ESS]</capabilities>
+               <frequency>2437</frequency>
+            </accessPoint>
+            <powerLevels>
+               <signalMeasurements class="java.util.HashMap">
+                  <signalMeasurement>
+                     <singalProperty>RSSI</singalProperty>
+                     <measurements>
+                        <values class="java.util.ArrayList">
+                           <double>-69.0</double>
+                        </values>
+                     </measurements>
+                  </signalMeasurement>
+               </signalMeasurements>
+               <average>-69.0</average>
+            </powerLevels>
+         </wlanMeasurement>
+         <wlanMeasurement>
+            <accessPoint id="00:1b:d5:93:60:c0">
+               <signalProperties class="java.util.ArrayList">
+                  <signalProperty>RSSI</signalProperty>
+               </signalProperties>
+               <BSSID>00:1b:d5:93:60:c0</BSSID>
+               <SSID>TELENETHOTSPOT</SSID>
+               <capabilities>[ESS]</capabilities>
+               <frequency>5300</frequency>
+            </accessPoint>
+            <powerLevels>
+               <signalMeasurements class="java.util.HashMap">
+                  <signalMeasurement>
+                     <singalProperty>RSSI</singalProperty>
+                     <measurements>
+                        <values class="java.util.ArrayList">
+                           <double>-90.0</double>
+                        </values>
+                     </measurements>
+                  </signalMeasurement>
+               </signalMeasurements>
+               <average>-90.0</average>
+            </powerLevels>
+         </wlanMeasurement>
+      </apMeasurements>
+   </wlanMeasurement>
+</WLANFingerprint>

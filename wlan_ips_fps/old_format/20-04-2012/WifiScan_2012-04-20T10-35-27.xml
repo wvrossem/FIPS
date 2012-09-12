@@ -1,0 +1,55 @@
+<fingerprint id="0">
+   <dateTime>2012-04-20 10:35:27.809 CEST</dateTime>
+   <position class="ips.data.GridPosition">
+      <x>390</x>
+      <y>270</y>
+      <bottomY>300</bottomY>
+      <leftX>360</leftX>
+      <rightX>420</rightX>
+      <topY>240</topY>
+   </position>
+   <levels class="java.util.HashMap">
+      <apPowerlevels>
+         <ap>
+            <BSSID>00:11:92:e9:fa:b0</BSSID>
+            <SSID>TELENETHOTSPOT</SSID>
+            <capabilities>[ESS]</capabilities>
+            <frequency>2462</frequency>
+         </ap>
+         <accessPointPowerLevels>
+            <levels class="java.util.ArrayList">
+               <integer>-69</integer>
+            </levels>
+            <average>-69</average>
+         </accessPointPowerLevels>
+      </apPowerlevels>
+      <apPowerlevels>
+         <ap>
+            <BSSID>00:1b:d5:93:60:c0</BSSID>
+            <SSID>TELENETHOTSPOT</SSID>
+            <capabilities>[ESS]</capabilities>
+            <frequency>5240</frequency>
+         </ap>
+         <accessPointPowerLevels>
+            <levels class="java.util.ArrayList">
+               <integer>-90</integer>
+            </levels>
+            <average>-90</average>
+         </accessPointPowerLevels>
+      </apPowerlevels>
+      <apPowerlevels>
+         <ap>
+            <BSSID>00:11:92:e9:cb:90</BSSID>
+            <SSID>TELENETHOTSPOT</SSID>
+            <capabilities>[ESS]</capabilities>
+            <frequency>2437</frequency>
+         </ap>
+         <accessPointPowerLevels>
+            <levels class="java.util.ArrayList">
+               <integer>-66</integer>
+            </levels>
+            <average>-66</average>
+         </accessPointPowerLevels>
+      </apPowerlevels>
+   </levels>
+</fingerprint>

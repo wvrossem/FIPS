@@ -1,0 +1,153 @@
+<fingerprint id="0">
+   <dateTime>2012-04-30 10:37:35.211 CEST</dateTime>
+   <position class="ips.data.GridPosition">
+      <x>90</x>
+      <y>450</y>
+      <bottomY>480</bottomY>
+      <leftX>60</leftX>
+      <rightX>120</rightX>
+      <topY>420</topY>
+   </position>
+   <levels class="java.util.HashMap">
+      <apPowerlevels>
+         <ap>
+            <BSSID>00:3a:98:35:fe:4e</BSSID>
+            <SSID>Maint</SSID>
+            <capabilities>[WPA-EAP-TKIP+CCMP][WPA2-EAP-TKIP+CCMP][ESS]</capabilities>
+            <frequency>5280</frequency>
+         </ap>
+         <accessPointPowerLevels>
+            <levels class="java.util.ArrayList">
+               <integer>-85</integer>
+            </levels>
+            <average>-85</average>
+         </accessPointPowerLevels>
+      </apPowerlevels>
+      <apPowerlevels>
+         <ap>
+            <BSSID>00:11:92:e9:cb:90</BSSID>
+            <SSID>TELENETHOTSPOT</SSID>
+            <capabilities>[ESS]</capabilities>
+            <frequency>2437</frequency>
+         </ap>
+         <accessPointPowerLevels>
+            <levels class="java.util.ArrayList">
+               <integer>-82</integer>
+            </levels>
+            <average>-82</average>
+         </accessPointPowerLevels>
+      </apPowerlevels>
+      <apPowerlevels>
+         <ap>
+            <BSSID>00:3a:98:35:fe:4f</BSSID>
+            <SSID>iWLAN</SSID>
+            <capabilities>[WPA-EAP-TKIP+CCMP][WPA2-EAP-TKIP+CCMP][ESS]</capabilities>
+            <frequency>5280</frequency>
+         </ap>
+         <accessPointPowerLevels>
+            <levels class="java.util.ArrayList">
+               <integer>-88</integer>
+            </levels>
+            <average>-88</average>
+         </accessPointPowerLevels>
+      </apPowerlevels>
+      <apPowerlevels>
+         <ap>
+            <BSSID>00:1d:19:14:23:b9</BSSID>
+            <SSID>opticmidi</SSID>
+            <capabilities>[WPA-PSK-TKIP][ESS]</capabilities>
+            <frequency>2437</frequency>
+         </ap>
+         <accessPointPowerLevels>
+            <levels class="java.util.ArrayList">
+               <integer>-81</integer>
+            </levels>
+            <average>-81</average>
+         </accessPointPowerLevels>
+      </apPowerlevels>
+      <apPowerlevels>
+         <ap>
+            <BSSID>00:19:70:81:79:5d</BSSID>
+            <SSID>CE</SSID>
+            <capabilities>[WEP][ESS]</capabilities>
+            <frequency>2412</frequency>
+         </ap>
+         <accessPointPowerLevels>
+            <levels class="java.util.ArrayList">
+               <integer>-80</integer>
+            </levels>
+            <average>-80</average>
+         </accessPointPowerLevels>
+      </apPowerlevels>
+      <apPowerlevels>
+         <ap>
+            <BSSID>1c:7e:e5:fd:46:40</BSSID>
+            <SSID>EXPO-MIDI</SSID>
+            <capabilities>[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]</capabilities>
+            <frequency>2437</frequency>
+         </ap>
+         <accessPointPowerLevels>
+            <levels class="java.util.ArrayList">
+               <integer>-85</integer>
+            </levels>
+            <average>-85</average>
+         </accessPointPowerLevels>
+      </apPowerlevels>
+      <apPowerlevels>
+         <ap>
+            <BSSID>00:3a:98:36:01:2e</BSSID>
+            <SSID>Maint</SSID>
+            <capabilities>[WPA-EAP-TKIP+CCMP][WPA2-EAP-TKIP+CCMP][ESS]</capabilities>
+            <frequency>5240</frequency>
+         </ap>
+         <accessPointPowerLevels>
+            <levels class="java.util.ArrayList">
+               <integer>-86</integer>
+            </levels>
+            <average>-86</average>
+         </accessPointPowerLevels>
+      </apPowerlevels>
+      <apPowerlevels>
+         <ap>
+            <BSSID>00:11:92:e9:dd:00</BSSID>
+            <SSID>TELENETHOTSPOT</SSID>
+            <capabilities>[ESS]</capabilities>
+            <frequency>2412</frequency>
+         </ap>
+         <accessPointPowerLevels>
+            <levels class="java.util.ArrayList">
+               <integer>-60</integer>
+            </levels>
+            <average>-60</average>
+         </accessPointPowerLevels>
+      </apPowerlevels>
+      <apPowerlevels>
+         <ap>
+            <BSSID>00:19:70:49:ba:a7</BSSID>
+            <SSID>bbox2-6344</SSID>
+            <capabilities>[WPA-PSK-TKIP][ESS]</capabilities>
+            <frequency>2412</frequency>
+         </ap>
+         <accessPointPowerLevels>
+            <levels class="java.util.ArrayList">
+               <integer>-73</integer>
+            </levels>
+            <average>-73</average>
+         </accessPointPowerLevels>
+      </apPowerlevels>
+      <apPowerlevels>
+         <ap>
+            <BSSID>00:03:52:ab:85:c0</BSSID>
+            <SSID>V208583</SSID>
+            <capabilities>[WPA2-EAP-CCMP][ESS]</capabilities>
+            <frequency>5200</frequency>
+         </ap>
+         <accessPointPowerLevels>
+            <levels class="java.util.ArrayList">
+               <integer>-80</integer>
+            </levels>
+            <average>-80</average>
+         </accessPointPowerLevels>
+      </apPowerlevels>
+   </levels>
+</fingerprint>

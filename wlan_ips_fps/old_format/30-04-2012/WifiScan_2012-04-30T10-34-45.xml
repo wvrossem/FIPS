@@ -1,0 +1,69 @@
+<fingerprint id="0">
+   <dateTime>2012-04-30 10:34:45.440 CEST</dateTime>
+   <position class="ips.data.GridPosition">
+      <x>150</x>
+      <y>270</y>
+      <bottomY>300</bottomY>
+      <leftX>120</leftX>
+      <rightX>180</rightX>
+      <topY>240</topY>
+   </position>
+   <levels class="java.util.HashMap">
+      <apPowerlevels>
+         <ap>
+            <BSSID>00:11:92:e9:dd:00</BSSID>
+            <SSID>TELENETHOTSPOT</SSID>
+            <capabilities>[ESS]</capabilities>
+            <frequency>2412</frequency>
+         </ap>
+         <accessPointPowerLevels>
+            <levels class="java.util.ArrayList">
+               <integer>-55</integer>
+            </levels>
+            <average>-55</average>
+         </accessPointPowerLevels>
+      </apPowerlevels>
+      <apPowerlevels>
+         <ap>
+            <BSSID>00:14:85:bc:3d:7c</BSSID>
+            <SSID>colmar</SSID>
+            <capabilities>[WEP][ESS]</capabilities>
+            <frequency>2437</frequency>
+         </ap>
+         <accessPointPowerLevels>
+            <levels class="java.util.ArrayList">
+               <integer>-75</integer>
+            </levels>
+            <average>-75</average>
+         </accessPointPowerLevels>
+      </apPowerlevels>
+      <apPowerlevels>
+         <ap>
+            <BSSID>00:11:24:a7:37:67</BSSID>
+            <SSID>f^_^;</SSID>
+            <capabilities>[WPA-PSK-TKIP][WPA2-PSK-TKIP+CCMP][ESS]</capabilities>
+            <frequency>2462</frequency>
+         </ap>
+         <accessPointPowerLevels>
+            <levels class="java.util.ArrayList">
+               <integer>-92</integer>
+            </levels>
+            <average>-92</average>
+         </accessPointPowerLevels>
+      </apPowerlevels>
+      <apPowerlevels>
+         <ap>
+            <BSSID>00:11:92:e9:fa:b0</BSSID>
+            <SSID>TELENETHOTSPOT</SSID>
+            <capabilities>[ESS]</capabilities>
+            <frequency>2462</frequency>
+         </ap>
+         <accessPointPowerLevels>
+            <levels class="java.util.ArrayList">
+               <integer>-77</integer>
+            </levels>
+            <average>-77</average>
+         </accessPointPowerLevels>
+      </apPowerlevels>
+   </levels>
+</fingerprint>
