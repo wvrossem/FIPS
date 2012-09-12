@@ -1,4 +1,4 @@
-FIPS-Server
+FIPS
 ==============
 
 Project Overview
@@ -14,8 +14,8 @@ The entire project is divided into several repositories:
 * [FIPS-Android-Offline](https://github.com/wvrossem/FIPS-Android-Offline)
 * [FIPS-Android-Online](https://github.com/wvrossem/FIPS-Android-Online)
 
-Server Usage
-------------
+FIPS Sample Data
+----------------
 
 This repository contains all the fingerprint samples that were collected during the project in the hope that they can be helpful to test the framework or can be used in other other projects.
 
